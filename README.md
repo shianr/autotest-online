@@ -1,2 +1,2 @@
 # autotest-online
-pr
+prss
